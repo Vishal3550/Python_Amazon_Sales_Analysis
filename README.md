@@ -1,10 +1,5 @@
 # Amazon_Sales_Report_Analysis_Using_Python
 
-[Data Set](https://github.com/Vishal3550/Python_Amazon_Sales_Analysis/blob/main/Amazon%20Sale%20Report.csv)
-
-
-# Amazon Sale Report Analysis
-
 This project provides an analysis of Amazon sales data using Python in a Jupyter Notebook. The data used for this analysis is stored in `Amazon Sale Report.csv`, and the code for processing and visualizing the data is in `Amazon Sale Report.ipynb`.
 
 ## Table of Contents
@@ -27,7 +22,7 @@ This project aims to analyze sales data from Amazon to uncover insights such as:
 
 ## Dataset
 
-The dataset, `Amazon Sale Report.csv`, contains information on sales transactions, including:
+The [Data Set](https://github.com/Vishal3550/Python_Amazon_Sales_Analysis/blob/main/Amazon%20Sale%20Report.csv), `Amazon Sale Report.csv`, contains information on sales transactions, including:
 - Product names
 - Categories
 - Sales figures
